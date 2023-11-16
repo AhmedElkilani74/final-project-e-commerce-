@@ -1,2 +1,2 @@
-# final-project-e-commerce-
-website for products (php) 
+# e-commerce
+a php project
